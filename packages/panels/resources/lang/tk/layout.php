@@ -53,11 +53,11 @@ return [
     ],
 
     'avatar' => [
-        'alt' => ':name avatary',
+        'alt' => 'Awatar :name',
     ],
 
     'logo' => [
-        'alt' => ':name logotipi',
+        'alt' => 'Logotip :name',
     ],
 
 ];
