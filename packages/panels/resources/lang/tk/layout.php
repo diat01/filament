@@ -11,7 +11,7 @@ return [
         ],
 
         'logout' => [
-            'label' => 'Hasapdan çykmak',
+            'label' => 'Hasapdan çyk',
         ],
 
         'open_database_notifications' => [
